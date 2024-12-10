@@ -21,7 +21,7 @@ File backup system to local or remote storage through SFTP server. Implemented f
   - [x] _Copy all files from source to destination directory:_ ```python run.py -s C:/source_dir -d D:/destination_dir```
   - [x] _Copy only specific files:_ ```python run.py -s C:/source_dir -d D:/destination_dir -f 'test.txt test.jpg'```
   - [x] _Copy everything except excluded files:_ ```python run.py -s C:/source_dir -d D:/destination_dir -e test.txt```
-  - [x] _Copy everything except files with pattern:_ ```python run.py -s C:/source_dir -d D:/destination_dir -p '*.txt *.jpg'```
+  - [x] _Copy everything except files with pattern:_ ```python run.py -s C:/source_dir -d D:/destination_dir -p *.txt```
   - [x] _Delete files after backup:_ ```python run.py -s C:/source_dir -d D:/destination_dir -r 1```
   - [x] _Save task to json file and do backup:_ ```python run.py -s C:/source_dir -d D:/destination_dir -sb 1```
   - [x] _Save task to json file and skip backup:_ ```python run.py -s C:/source_dir -d D:/destination_dir -sw 1```
