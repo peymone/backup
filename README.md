@@ -1,6 +1,7 @@
 <h1 align="center">Files Backup System</h1>
 
 <p align="center">
+    <img src="https://img.shields.io/github/license/peymone/backup?style=for-the-badge&color=pink" alt="License">
     <img src="https://img.shields.io/badge/%20Python-3.11.3-blue?style=for-the-badge&logo=Python" alt="Python">
     <img src="https://img.shields.io/badge/%20Rich-13.9.4-brightgreen?style=for-the-badge" alt="Rich">
     <img src="https://img.shields.io/badge/%20PySFTP-0.2.9-brightgreen?style=for-the-badge" alt="PySFTP">
