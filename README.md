@@ -13,7 +13,7 @@
 
 <h2>About</h2>
 
-File backup system to local or remote storage through SFTP server. Implemented features:
+**File backup system to local or remote storage through SFTP server.** Implemented features:
 
 - [x] _Load config from "config.ini" file_
 - [x] _Read terminal arguments_
